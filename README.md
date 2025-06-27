@@ -1,2 +1,2 @@
-# Banking-app
+# Banking-app-java
 Banking-app
